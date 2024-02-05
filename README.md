@@ -24,3 +24,7 @@ uri = "ws://v1an.xyz:11001"
 下载服务器端.py，default.py和map.txt，保证它们处于同一目录下  
 执行服务器端.py  
   
+# 开启客户端  
+下载客户端.py，image文件夹  
+执行客户端.py  
+  
