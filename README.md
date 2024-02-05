@@ -11,8 +11,7 @@ default.py：默认用户代码
 # 更改服务器端口配置  
 打开服务器端.py  
 拉到最下面，直到看到  
-if __name__ == "__main__":  
-    asyncio.run(main(port=11001))  
+asyncio.run(main(port=11001))  
 将port更改为你想要的  
   
 # 更改客户端连接的服务器地址  
